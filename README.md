@@ -1,4 +1,4 @@
-# Détection de campagnes de désinformation — projet Machine Learning AI for Good
+# Détection de campagnes de désinformation - projet Machine Learning AI for Good
 
 Ce projet est un exemple pédagogique complet pour GitHub et Google Colab.
 Il utilise des **données imaginées** pour entraîner un modèle qui détecte des publications ressemblant à une **campagne coordonnée de désinformation**.
